@@ -1,0 +1,21 @@
+{
+  "name": "advancedplaywright.js",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tabbytoney/AdvancedPlaywright.JS.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/tabbytoney/AdvancedPlaywright.JS/issues"
+  },
+  "homepage": "https://github.com/tabbytoney/AdvancedPlaywright.JS#readme",
+  "devDependencies": {
+    "@playwright/test": "^1.36.1"
+  }
+}
